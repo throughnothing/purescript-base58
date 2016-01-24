@@ -1,4 +1,3 @@
-// Module Text.Base58
 "use strict";
 
 var bs58 = require("bs58");
