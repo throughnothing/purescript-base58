@@ -1,7 +1,7 @@
 module Data.Base58 where
 
-import Data.Function
-import Data.Maybe
+import Data.Function.Uncurried (runFn3, Fn3)
+import Data.Maybe (Maybe (..))
 
 type Base58 = String
 
