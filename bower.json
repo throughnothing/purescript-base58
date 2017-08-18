@@ -1,6 +1,6 @@
 {
   "name": "purescript-base58",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "moduleType": [
     "node"
   ],
@@ -11,8 +11,8 @@
     "output"
   ],
   "dependencies": {
-    "purescript-console": "^2.0.0",
-    "purescript-maybe": "^2.1.1",
-    "purescript-functions": "2.0.0"
+    "purescript-console": "^3.0.0",
+    "purescript-maybe": "^3.0.0",
+    "purescript-functions": "3.0.0"
   }
 }
